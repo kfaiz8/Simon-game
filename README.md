@@ -1,2 +1,2 @@
-Java Script Mini Project
+Java Script Mini Project:
 Simon Say Game 
